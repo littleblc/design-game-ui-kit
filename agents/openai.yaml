@@ -1,0 +1,4 @@
+interface:
+  display_name: "游戏 UI 设计与精细拆分"
+  short_description: "从真实玩法和示意图出发，精细拆分透明素材并重组验收，交付 Unity 资源包"
+  default_prompt: "使用 $design-game-ui-kit，结合游戏项目与参考图完成所需 UI 设计或确认稿的精细素材拆分，并检查透明边缘和重组效果。"
